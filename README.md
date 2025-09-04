@@ -11,10 +11,9 @@ What I really enjoy is taking messy data or tricky tasks and turning them into s
 
 ## 🛠️ Skills & Tools
 
-* 📊 **Microsoft Excel** – Formulas, Dashboards, Power Query, Pivot Tables
+* 📊 **Microsoft Excel** – Formulas, Dashboards, Power Query, Pivot Tables, formulas
 * 🗄️ **MySQL** – Data cleaning, queries, analysis
-* 🎨 **Canva** – Visual design & layouts
 * 📑 **PowerPoint** – Engaging presentations
 * 🖥️ **Hardware Troubleshooting** – PC diagnostics & repair
-* 💽 **Software Installation** – Setup & configuration
+* 💽 **Software Installation** – Setup & configuration, installing operating system
 * 🛠️ **MS Office Tools** – Word, Outlook, Teams
